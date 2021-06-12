@@ -1,5 +1,5 @@
-GET:Top Heroes,search
-PUT:update
-DELETE: delete
-PATCH:update
-POST: add
+GET:Top Heroes,search</br>
+PUT:update</br>
+DELETE: delete</br>
+PATCH:update</br>
+POST: add</br>
